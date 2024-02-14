@@ -10,7 +10,7 @@ const USER_CONFIG = {
   USERS: [
     {
       ids: ['o-_as6MlbZiv_iGAJc3YoXIiZihU','o-_as6GRDerRVQK3lEEJIjHw0zu4'],
-      useTemplateId: 'xfZtPb_4kLkFolEPMGKaB5OO89xvLffZ9hL03bdNeF0',    
+      useTemplateId: 'TtkzHo4_8aZUUGiN5QIl9oDTkJS8OogOEJ3BO67DKfw',    
       
       customizedDateList: [
         // 在一起的日子
