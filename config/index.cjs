@@ -9,7 +9,7 @@ const USER_CONFIG = {
 
   USERS: [
     {
-      ids: ['o-_as6MlbZiv_iGAJc3YoXIiZihU','o-_as6GRDerRVQK3lEEJIjHw0zu4'],
+      ids: 'o-_as6GRDerRVQK3lEEJIjHw0zu4',
       useTemplateId: 'TtkzHo4_8aZUUGiN5QIl9oDTkJS8OogOEJ3BO67DKfw',    
       
       customizedDateList: [
